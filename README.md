@@ -1,4 +1,4 @@
-# WiDS_2024_Breast_Cancer_Dashboard
+# WiDS 2024 Breast Cancer Dashboard
 
 ## Title: Breast Cancer Treatment Equity Dashboard: WiDS 2024
 
