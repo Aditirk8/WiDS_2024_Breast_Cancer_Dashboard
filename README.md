@@ -7,8 +7,11 @@ This dashboard was developed to identify and visualize the socioeconomic, geogra
 
 Tech Stack:
 Data Visualization: Power BI Desktop
+
 Data Transformation: Power Query
+
 Calculations & KPIs: DAX (Data Analysis Expressions)
+
 File Formats: .pbix (Development), .png (Previews)
 
 Data Source:
