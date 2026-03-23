@@ -7,11 +7,8 @@ This dashboard was developed to identify and visualize the socioeconomic, geogra
 
 Tech Stack:
 Data Visualization: Power BI Desktop
-
 Data Transformation: Power Query
-
 Calculations & KPIs: DAX (Data Analysis Expressions)
-
 File Formats: .pbix (Development), .png (Previews)
 
 Data Source:
@@ -28,14 +25,22 @@ The primary goal is to move beyond simple prediction and provide a diagnostic to
 
 Key Visuals:
 Overall KPIs: Provides an immediate baseline of the 70-day median treatment delay and the scale of the population (27K patients).
+
 Treatment Trends (2015-2018): A line chart tracking the significant reduction in median treatment periods over time, providing historical context.
+
 Insurance & Payer Impact: A bar chart revealing how different payer types, such as Medicare Advantage versus Commercial insurance, correlate with different speeds of care.
+
 Age-Based Delays: A binned analysis showing a linear increase in treatment wait times as patients get older.
+
 Geographic Disparity: A ranked bar chart highlighting regional differences, with the Pacific and Middle Atlantic divisions showing the highest delays.
+
 Clinical Indicators: A horizontal bar chart showing how metastatic first treatment types (e.g., Nonsteroidals) impact the median wait time.
 
 Insights and Impact:
 The Age Gap: Patients over the age of 70 face the longest delays, highlighting a need for better support systems for senior patients.
+
 The Poverty Penalty: Analysis using binned socioeconomic data revealed that patients in high-poverty ZIP codes wait significantly longer for treatment (up to 92 days) compared to those in low-poverty areas (70 days).
+
 Systemic Barriers: Insurance type is a major predictor of access; patients with Medicare Advantage face higher median wait times than those with Commercial coverage.
+
 Impact: These insights allow organizations to identify and prioritize high-risk regions or demographic groups for targeted intervention, ensuring that the most vulnerable patients receive care within the critical clinical window.
